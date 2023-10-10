@@ -90,8 +90,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
-Developed by:VARSHINI S.A
-Register Number:212222100059
+Developed by:panimalar.p
+Register Number:212222110031
 ```
 ```
 void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
